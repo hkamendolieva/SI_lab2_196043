@@ -3,6 +3,7 @@
 
 ### Control Flow Graph
 
+Јазлите претставуваат број на линија во кодот
 ![Untitled Diagram](https://user-images.githubusercontent.com/82349548/120083263-be613a80-c0c7-11eb-8969-0da1b8cc6ead.png)
 
 ### Цикломатска комплексност
